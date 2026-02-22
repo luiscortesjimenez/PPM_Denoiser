@@ -67,3 +67,7 @@ To run the program:
 * **Median Filtering:** Use the median instead of the mean to better remove "salt and pepper" noise without blurring image edges.
 * **CLI Flags/Arguments:** Support flags like `-i <input_base>`, `-o <output_name>`, and `-m <mean|median>`.
 * **Support for PNG/JPG:** Integrate a library like `stb_image` to handle modern image formats rather than just PPMs.
+
+---
+
+> "Check out more of my work and my full portfolio at [luiscortesjimenez.github.io](https://luiscortesjimenez.github.io/)."
