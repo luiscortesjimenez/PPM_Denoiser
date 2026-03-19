@@ -5,7 +5,6 @@ A C++ tool that denoises Portable Pixmap (PPM) images by averaging multiple nois
 ## Overview
 This program takes a set of 10 noisy PPM images and produces a single clean image by averaging the pixel values across all input files. The idea is that random noise cancels out when you average enough samples of the same image.
 
-*(Developed as part of CS315: Data Structures & Algorithms at Sonoma State University).*
 
 ## Tech Stack
 * **Language:** C++
@@ -14,7 +13,7 @@ This program takes a set of 10 noisy PPM images and produces a single clean imag
 
 ## Before & After
 
-*(Note: GitHub does not natively render `.ppm` images. Consider converting these examples to `.png` or `.jpg` for web viewing)*
+*(Note to self: GitHub doesnt render `.ppm` images, convert these examples to `.png` or `.jpg` for web viewing)*
 
 **Noisy Image (Sample 1 of 10)**  
 ![Noisy Image](./images/image01_noisy_1.ppm)
