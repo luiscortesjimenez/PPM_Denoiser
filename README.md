@@ -11,16 +11,6 @@ This program takes a set of 10 noisy PPM images and produces a single clean imag
 * **Build System:** CMake
 * **Key Concepts:** File I/O, 2D Arrays/Vectors, Memory Management, Multi-stream processing
 
-## Before & After
-
-*(Note to self: GitHub doesnt render `.ppm` images, convert these examples to `.png` or `.jpg` for web viewing)*
-
-**Noisy Image (Sample 1 of 10)**  
-![Noisy Image](./images/image01_noisy_1.ppm)
-
-**Clean Image (Output)**  
-![Clean Image](./images/image01_clean.ppm)
-
 ## Setup & How to Run
 
 ### Build Instructions
